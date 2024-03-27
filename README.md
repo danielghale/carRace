@@ -4,5 +4,5 @@
 * Theres are 10 levels, each level the bot's car speed increases. 
 * Movement controls: W A S D  
 <p align="center">
-  <img alt="Game Preview" src="./game_preview.png"/>
+  <img alt="Game Preview" src="imgs/game_preview.png"/>
 </p>
